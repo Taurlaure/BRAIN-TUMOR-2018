@@ -1,0 +1,9 @@
+Acurácia: 38.461538 (20 features)
+
+Acurácia: 54.545455 (15 features)
+
+Acurácia: 58.333333 (15 features , 243 images , gamma 0,1)
+
+Acurácia: 61.538462 (15 features , 257 images , gamma 0,1 , C 30)
+
+Acurácia: 57.142857 (15 features, 300 images, gamma 0,1 , C 10)
